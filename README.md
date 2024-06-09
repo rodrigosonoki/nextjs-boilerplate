@@ -4,12 +4,12 @@ This is a [Next.js](https://nextjs.org/) boilerplate template.
 
 #### NextJS configurations
 
-- Typescript
-- ESLint
-- Tailwind CSS
-- `src/` directory
-- App Router
-- Import alias as `@/*`
+- ✅ Typescript
+- ✅ ESLint
+- ✅ Tailwind CSS
+- ✅ `src/` directory
+- ✅ App Router
+- ✅ Import alias as `@/*`
 
 #### CSS Reset
 
@@ -37,7 +37,7 @@ yarn install
 and then run the development server:
 
 ```bash
-npm run  dev
+npm run dev
 
 # or
 
